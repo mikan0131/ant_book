@@ -2,10 +2,16 @@
 using namespace std;
 
 int N, M;
-char W[109][109];
+char field[109][109];
 
 void dfs(int i, int j) {
-    
+    field[x][y] = '.';
+    for (int dx = -1; dx <= 1; dx++) {
+        for (int dy = -1; dy <= 1; dy++) {
+            int nx = x + dx, ny = y + dy;
+        }
+        if (0 <= nx && nx < N && 0 <= ny && ny < N) 
+    }
 }
 
 int main() {
