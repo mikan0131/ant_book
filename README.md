@@ -1,7 +1,7 @@
 # ant_book
 
 蟻本（プログラミングコンテストチャレンジブック）のコードを記録します
-<<<<<<< HEAD
+ 
 
 AtCoder 版！蟻本 (初級編)
 https://qiita.com/drken/items/e77685614f3c6bf86f44
@@ -48,5 +48,4 @@ https://atcoder.jp/contests/agc013/tasks/agc013_c
 ABC 045 C - たくさんの数式
 https://atcoder.jp/contests/arc061/tasks/arc061_a
 
-=======
->>>>>>> origin/main
+
