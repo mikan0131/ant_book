@@ -1,5 +1,10 @@
 #include <iostream>
 #include <algorithm>
+<<<<<<< HEAD
+=======
+#include <windows.h>
+#include <time.h>
+>>>>>>> origin/main
 using namespace std;
 
 int N, M, K[1009];
