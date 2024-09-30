@@ -3,11 +3,8 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe アクティブなファイルのビルド",
-<<<<<<< HEAD
             "command": "C:\\pg\\mingw64\\bin\\g++.exe",
-=======
             "command": "C:\\Program Files (x86)\\mingw64\\bin\\g++.exe",
->>>>>>> origin/main
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
