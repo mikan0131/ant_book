@@ -48,4 +48,14 @@ https://atcoder.jp/contests/agc013/tasks/agc013_c
 ABC 045 C - たくさんの数式
 https://atcoder.jp/contests/arc061/tasks/arc061_a
 
+ABC 079 C - Train Ticket
+https://atcoder.jp/contests/abc079/tasks/abc079_c
 
+ABC 104 C - All Green
+https://atcoder.jp/contests/abc104/tasks/abc104_c
+
+ARC 029 A - 高橋君とお肉
+https://atcoder.jp/contests/arc029/tasks/arc029_1
+
+ABC 002 D - 派閥
+https://atcoder.jp/contests/abc002/tasks/abc002_4
