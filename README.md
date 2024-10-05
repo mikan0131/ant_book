@@ -59,3 +59,11 @@ https://atcoder.jp/contests/arc029/tasks/arc029_1
 
 ABC 002 D - 派閥
 https://atcoder.jp/contests/abc002/tasks/abc002_4
+
+参考サイト
+
+再帰関数を学ぶと、どんな世界が広がるか
+https://qiita.com/drken/items/23a4f604fa3f505dd5ad
+
+ビット演算 (bit 演算) の使い方を総特集！ 〜 マスクビットから bit DP まで 〜
+https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361
