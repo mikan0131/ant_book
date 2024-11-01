@@ -67,3 +67,30 @@ https://qiita.com/drken/items/23a4f604fa3f505dd5ad
 
 ビット演算 (bit 演算) の使い方を総特集！ 〜 マスクビットから bit DP まで 〜
 https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361
+
+## 2_1_2
+
+DFS
+(弱) 連結成分分解
+グリッドグラフ上の探索
+
+ATC 001 A 深さ優先探索
+https://atcoder.jp/contests/atc001/tasks/dfs_a
+
+ARC 031 B 埋め立て
+https://atcoder.jp/contests/arc031/tasks/arc031_2
+
+ARC 037 B バウムテスト
+https://atcoder.jp/contests/arc037/tasks/arc037_b
+
+AOJ 1160 島はいくつある？
+http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp
+
+参考サイト
+
+DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】
+https://qiita.com/drken/items/4a7869c5e304883f539b
+
+DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】
+https://qiita.com/drken/items/a803d4fc4a727e02f7ba
+
