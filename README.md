@@ -94,3 +94,27 @@ https://qiita.com/drken/items/4a7869c5e304883f539b
 DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】
 https://qiita.com/drken/items/a803d4fc4a727e02f7ba
 
+## 2_1_3
+
+BFS
+BFS を用いる最短路問題
+グリッド上の探索
+
+[]ABC 007 C 幅優先探索
+https://atcoder.jp/contests/abc007/tasks/abc007_3
+
+[]JOI 2010 予選 E チーズ
+https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e
+
+[]ABC 088 D Grid Repainting
+https://atcoder.jp/contests/abc088/tasks/abc088_d
+
+[]AGC 033 A - Darker and Darker
+https://atcoder.jp/contests/agc033/tasks/agc033_a
+
+- [ ] ARC 005 C 器物損壊！高橋君
+https://atcoder.jp/contests/arc005/tasks/arc005_3
+
+[ ]AOJ 0503 Cup
+http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0503
+
