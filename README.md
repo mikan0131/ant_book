@@ -115,6 +115,6 @@ https://atcoder.jp/contests/agc033/tasks/agc033_a
 - [ ] ARC 005 C 器物損壊！高橋君
 https://atcoder.jp/contests/arc005/tasks/arc005_3
 
-- [ ]AOJ 0503 Cup
+- [ ] AOJ 0503 Cup
 http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0503
 
