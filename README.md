@@ -100,7 +100,7 @@ BFS
 BFS を用いる最短路問題
 グリッド上の探索
 
-- [ ] ABC 007 C 幅優先探索
+- [x] ABC 007 C 幅優先探索
 https://atcoder.jp/contests/abc007/tasks/abc007_3
 
 - [ ] JOI 2010 予選 E チーズ
